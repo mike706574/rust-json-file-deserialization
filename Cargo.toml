@@ -1,0 +1,10 @@
+[package]
+name = "foo"
+version = "0.1.0"
+authors = ["Mike <mike706574@gmail.com>"]
+license = "Eclipse Public License"
+
+[dependencies]
+serde = "1.0.10"
+serde_derive = "1.0.10"
+serde_json = "1.0"
