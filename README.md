@@ -1,4 +1,4 @@
-# rust-http-client-example
+# rust-json-file-deserialization-example
 
 A project.
 
